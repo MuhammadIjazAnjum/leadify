@@ -131,7 +131,7 @@ if(!class_exists( 'Leadify' )){
 				print_r($module_array);
 				die();
 			}	
-	}//End of class Leadify 
+	}//End of class Leadify  
 	// Add module(s)
 	function leadify_add_module($module_array)
 	{
